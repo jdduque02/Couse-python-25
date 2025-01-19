@@ -18,4 +18,10 @@ this project will be useful to document my learning in python
     Exercise 2: Check if one number is divisible by another.
     Exercise 3: Use logical operators to determine if a number is between 10 and 20.
     Exercise 4: Increment and decrement a variable by one.
-    Exercise 5: Use the compound assignment operator to raise a number by one. 
+    Exercise 5: Use the compound assignment operator to raise a number by one.
+  # Day 4: Inbound and Outbound
+    Exercise 1: Ask the user to enter their name and a favorite number, then print it in a custom message.
+    Exercise 2: Create a program that calculates BMI (Body Mass Index) from user input.
+    Exercise 3: Write a program that simulates an ATM, asking the user for the amount to withdraw and displaying the remaining balance.
+    Exercise 4: Save your name and age in a text file.
+    Exercise 5: Read the contents of a text file and print it on the screen.
