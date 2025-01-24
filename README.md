@@ -63,3 +63,9 @@ this project will be useful to document my learning in python
     Exercise 3: Create a function that determines if a number is prime.
     Exercise 4: Create a function that converts a temperature from Celsius to Fahrenheit.
     Exercise 5: Create a function that generates a list of random numbers.
+  # Day 2: Parameters and Arguments
+    Exercise 1: Create a function that takes two numbers as input and returns their sum.
+    Exercise 2: Create a function that takes a list as input and returns the average of its elements.
+    Exercise 3: Create a function that takes a variable number of arguments and prints them.
+    Exercise 4: Create a function that calculates the factorial of a number using recursion.
+    Exercise 5: Create a function that takes a string as input and returns the same string in uppercase.
