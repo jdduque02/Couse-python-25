@@ -69,3 +69,9 @@ this project will be useful to document my learning in python
     Exercise 3: Create a function that takes a variable number of arguments and prints them.
     Exercise 4: Create a function that calculates the factorial of a number using recursion.
     Exercise 5: Create a function that takes a string as input and returns the same string in uppercase.
+  # Day 3: Variable Scope
+    Exercise 1: Demonstrate the difference between global and local variables within functions.
+    Exercise 2: Create a function that modifies a global list.
+    Exercise 3: Use the nonlocal keyword to modify a variable in a nested scope.
+    Exercise 4: Explain why it is important to be careful with the scope of variables.
+    Exercise 5: Create a function that calculates the factorial of a number using recursion and demonstrate how the scope of variables affects this technique.
